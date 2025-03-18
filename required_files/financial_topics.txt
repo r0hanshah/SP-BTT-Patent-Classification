@@ -1,0 +1,21 @@
+﻿1. Distributed Ledger
+[distributed ledger technology, consensus mechanism, bitcoin miner, cryptocurrency miner]
+2. Digital Healthcare
+[remote medical patient monitoring, remote patient monitoring, remote clinical, Remote surgical, Remote surgery, teledentistry, telehealth, telemedicine]
+3. Sustainable Farming
+[farming technology, agricultural technology, connected far, precision agriculture, sustainable fertilizer, alternative meat, vertical farming, hydroponics, aquaponics, aeroponics ]
+4. Autonomous Vehicles
+[autonomous vehicle, self driving car, self driving, self driving vehicle, self driving truck]
+5. Artificial Intelligence
+[artificial intelligence, graphics processing unit, large language model, deep learning]
+6. Cyber Security 
+[cyber security technology, multi-factor authentication, identity management systems]
+7. 3D Printing 
+[3D printer, 3D printing, additive manufacturing, soundwave printing, bioprinting, 3D scanner]
+8. Virtual Reality
+[virtual reality head mounted display, virtual reality glasses, virtual reality platform, virtual reality sensors, virtual reality software, virtual reality hardware, 
+augmented reality head mounted display, augmented reality glasses, augmented reality platform, augmented reality sensors, augmented reality software, augmented reality hardware]
+9. Nanotechnology 
+[nanoscale material, nanoscale technology, nanoscale]
+10. Smart Factories 
+[ digitalized factories, digitalized manufacturing, smart factory, smart factories, industrial internet of things, industrial machine vision, industrial 3D vision]
