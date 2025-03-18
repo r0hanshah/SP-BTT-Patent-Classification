@@ -1,0 +1,144 @@
+[
+    {
+        "Patent Class": "Distributed Ledger",
+        "Positive Sample": "cryptocurrency miner",
+        "Negative Sample": "self-driving car",
+        "Reason": "Cryptocurrency mining is directly linked to blockchain technology (like distributed ledgers), whereas self-driving cars operate on AI and sensor-based systems.",
+        "Keywords": [
+            "distributed ledger technology",
+            "consensus mechanism",
+            "bitcoin miner",
+            "cryptocurrency miner"
+        ]
+    },
+    {
+        "Patent Class": "Digital Healthcare",
+        "Positive Sample": "remote surgery",
+        "Negative Sample": "large language model",
+        "Reason": "Remote surgery utilizes robotic systems controlled by doctors over a network, while large language models focus on processing natural language rather than specific medical procedures.",
+        "Keywords": [
+            "remote medical patient monitoring",
+            "remote patient monitoring",
+            "remote clinical",
+            "Remote surgical",
+            "Remote surgery",
+            "teledentistry",
+            "telehealth",
+            "telemedicine"
+        ]
+    },
+    {
+        "Patent Class": "Sustainable Farming",
+        "Positive Sample": "agricultural technology",
+        "Negative Sample": "virtual reality software",
+        "Reason": "Agricultural technology is designed to improve farming efficiency and sustainability, whereas virtual reality software is typically aimed at creating immersive digital experiences, unrelated to farming.",
+        "Keywords": [
+            "farming technology",
+            "agricultural technology",
+            "connected farm",
+            "precision agriculture",
+            "sustainable fertilizer",
+            "alternative meat",
+            "vertical farming",
+            "hydroponics",
+            "aquaponics",
+            "aeroponics"
+        ]
+    },
+    {
+        "Patent Class": "Autonomous Vehicles",
+        "Positive Sample": "self-driving vehicle",
+        "Negative Sample": "additive manufacturing",
+        "Reason": "Self-driving vehicles depend heavily on AI algorithms and real-time sensor data, whereas additive manufacturing (3D printing) focuses on creating physical objects layer by layer, without any connection to autonomous mobility.",
+        "Keywords": [
+            "autonomous vehicle",
+            "self driving car",
+            "self driving",
+            "self driving vehicle",
+            "self driving truck"
+        ]
+    },
+    {
+        "Patent Class": "Artificial Intelligence",
+        "Positive Sample": "graphics processing unit (GPU)",
+        "Negative Sample": "3D printer",
+        "Reason": "GPUs are integral to powering AI models and computations, but 3D printers are used in fabrication processes, which do not require AI processing power.",
+        "Keywords": [
+            "artificial intelligence",
+            "graphics processing unit",
+            "large language model",
+            "deep learning"
+        ]
+    },
+    {
+        "Patent Class": "Cyber Security",
+        "Positive Sample": "multi-factor authentication",
+        "Negative Sample": "nanoscale technology",
+        "Reason": "Multi-factor authentication is a cybersecurity method aimed at ensuring user identity, while nanoscale technology is concerned with manipulating materials at the molecular level.",
+        "Keywords": [
+            "cyber security technology",
+            "multi-factor authentication",
+            "identity management systems"
+        ]
+    },
+    {
+        "Patent Class": "3D Printing",
+        "Positive Sample": "soundwave printing",
+        "Negative Sample": "teledentistry",
+        "Reason": "Soundwave printing is an innovative form of additive manufacturing, but teledentistry focuses on delivering dental care remotely and does not involve printing technologies.",
+        "Keywords": [
+            "3D printer",
+            "3D printing",
+            "additive manufacturing",
+            "soundwave printing",
+            "bioprinting",
+            "3D scanner"
+        ]
+    },
+    {
+        "Patent Class": "Virtual Reality",
+        "Positive Sample": "augmented reality glasses",
+        "Negative Sample": "aquaponics",
+        "Reason": "Augmented reality glasses are tools for enhancing digital interactions with the physical world, while aquaponics is a method for sustainable farming, far removed from virtual reality applications.",
+        "Keywords": [
+            "virtual reality head mounted display",
+            "virtual reality glasses",
+            "virtual reality platform",
+            "virtual reality sensors",
+            "virtual reality software",
+            "virtual reality hardware",
+            "augmented reality head mounted display",
+            "augmented reality glasses",
+            "augmented reality platform",
+            "augmented reality sensors",
+            "augmented reality software",
+            "augmented reality hardware"
+        ]
+    },
+    {
+        "Patent Class": "Nanotechnology",
+        "Positive Sample": "nanoscale technology",
+        "Negative Sample": "bitcoin miner",
+        "Reason": "Nanoscale technology involves manipulating materials on an atomic scale, which differs fundamentally from bitcoin mining, an activity centered around blockchain computations.",
+        "Keywords": [
+            "nanoscale material",
+            "nanoscale technology",
+            "nanoscale"
+        ]
+    },
+    {
+        "Patent Class": "Smart Factories",
+        "Positive Sample": "digitalized manufacturing",
+        "Negative Sample": "identity management systems",
+        "Reason": "Digitalized manufacturing transforms production through automation and real-time data analysis, while identity management systems focus on securing access and verifying users, with no overlap in manufacturing processes.",
+        "Keywords": [
+            "digitalized factories",
+            "digitalized manufacturing",
+            "smart factory",
+            "smart factories",
+            "industrial internet of things",
+            "industrial machine vision",
+            "industrial 3D vision"
+        ]
+    }
+]
